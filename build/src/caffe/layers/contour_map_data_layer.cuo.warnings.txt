@@ -1,0 +1,185 @@
+/home/vis/yangdegang/lib/local/include/H5public.h(170): warning: unrecognized GCC pragma
+
+/home/vis/yangdegang/lib/local/include/H5public.h(170): warning: unrecognized GCC pragma
+
+/home/vis/yangdegang/lib/local/include/H5public.h(173): warning: unrecognized GCC pragma
+
+/home/vis/yangdegang/lib/local/include/opencv2/core/mat.hpp(363): warning: integer conversion resulted in a change of sign
+
+/home/vis/yangdegang/lib/local/include/opencv2/core/mat.hpp(2119): warning: integer conversion resulted in a change of sign
+
+/home/vis/yangdegang/lib/local/include/opencv2/ml/ml.hpp(949): warning: overloaded virtual function "CvDTree::train" is only partially overridden in class "CvForestTree"
+
+/home/vis/yangdegang/lib/local/include/opencv2/ml/ml.hpp(1141): warning: overloaded virtual function "CvDTree::train" is only partially overridden in class "CvBoostTree"
+
+/home/vis/yangdegang/lib/boost_1_56_0/boost/smart_ptr/detail/sp_counted_base_gcc_x86.hpp(49): warning: "cc" clobber ignored
+
+/home/vis/yangdegang/lib/boost_1_56_0/boost/smart_ptr/detail/sp_counted_base_gcc_x86.hpp(65): warning: "cc" clobber ignored
+
+/home/vis/yangdegang/lib/boost_1_56_0/boost/smart_ptr/detail/sp_counted_base_gcc_x86.hpp(91): warning: "cc" clobber ignored
+
+/home/vis/yangdegang/lib/boost_1_56_0/boost/smart_ptr/detail/sp_counted_base_gcc_x86.hpp(75): warning: variable "tmp" was set but never used
+
+/home/vis/.jumbo/include/glog/logging.h(348): warning: using-declaration ignored -- it refers to the current namespace
+
+/home/vis/.jumbo/include/glog/logging.h(352): warning: using-declaration ignored -- it refers to the current namespace
+
+/home/vis/yangdegang/lib/local/include/opencv2/core/operations.hpp(2603): warning: integer conversion resulted in a change of sign
+          detected during instantiation of "cv::Ptr<_Tp>::~Ptr() [with _Tp=cv::linemod::QuantizedPyramid]" 
+
+/home/vis/yangdegang/lib/local/include/H5public.h(170): warning: unrecognized GCC pragma
+
+/home/vis/yangdegang/lib/local/include/H5public.h(170): warning: unrecognized GCC pragma
+
+/home/vis/yangdegang/lib/local/include/H5public.h(173): warning: unrecognized GCC pragma
+
+/home/vis/yangdegang/lib/local/include/opencv2/core/mat.hpp(363): warning: integer conversion resulted in a change of sign
+
+/home/vis/yangdegang/lib/local/include/opencv2/core/mat.hpp(2119): warning: integer conversion resulted in a change of sign
+
+/home/vis/yangdegang/lib/local/include/opencv2/ml/ml.hpp(949): warning: overloaded virtual function "CvDTree::train" is only partially overridden in class "CvForestTree"
+
+/home/vis/yangdegang/lib/local/include/opencv2/ml/ml.hpp(1141): warning: overloaded virtual function "CvDTree::train" is only partially overridden in class "CvBoostTree"
+
+/home/vis/yangdegang/lib/boost_1_56_0/boost/smart_ptr/detail/sp_counted_base_gcc_x86.hpp(49): warning: "cc" clobber ignored
+
+/home/vis/yangdegang/lib/boost_1_56_0/boost/smart_ptr/detail/sp_counted_base_gcc_x86.hpp(65): warning: "cc" clobber ignored
+
+/home/vis/yangdegang/lib/boost_1_56_0/boost/smart_ptr/detail/sp_counted_base_gcc_x86.hpp(91): warning: "cc" clobber ignored
+
+/home/vis/yangdegang/lib/boost_1_56_0/boost/smart_ptr/detail/sp_counted_base_gcc_x86.hpp(75): warning: variable "tmp" was set but never used
+
+/home/vis/.jumbo/include/glog/logging.h(348): warning: using-declaration ignored -- it refers to the current namespace
+
+/home/vis/.jumbo/include/glog/logging.h(352): warning: using-declaration ignored -- it refers to the current namespace
+
+/home/vis/yangdegang/lib/local/include/opencv2/core/operations.hpp(2603): warning: integer conversion resulted in a change of sign
+          detected during instantiation of "cv::Ptr<_Tp>::~Ptr() [with _Tp=cv::linemod::QuantizedPyramid]" 
+
+/home/vis/yangdegang/lib/local/include/H5public.h(170): warning: unrecognized GCC pragma
+
+/home/vis/yangdegang/lib/local/include/H5public.h(170): warning: unrecognized GCC pragma
+
+/home/vis/yangdegang/lib/local/include/H5public.h(173): warning: unrecognized GCC pragma
+
+/home/vis/yangdegang/lib/local/include/opencv2/core/mat.hpp(363): warning: integer conversion resulted in a change of sign
+
+/home/vis/yangdegang/lib/local/include/opencv2/core/mat.hpp(2119): warning: integer conversion resulted in a change of sign
+
+/home/vis/yangdegang/lib/local/include/opencv2/ml/ml.hpp(949): warning: overloaded virtual function "CvDTree::train" is only partially overridden in class "CvForestTree"
+
+/home/vis/yangdegang/lib/local/include/opencv2/ml/ml.hpp(1141): warning: overloaded virtual function "CvDTree::train" is only partially overridden in class "CvBoostTree"
+
+/home/vis/yangdegang/lib/boost_1_56_0/boost/smart_ptr/detail/sp_counted_base_gcc_x86.hpp(49): warning: "cc" clobber ignored
+
+/home/vis/yangdegang/lib/boost_1_56_0/boost/smart_ptr/detail/sp_counted_base_gcc_x86.hpp(65): warning: "cc" clobber ignored
+
+/home/vis/yangdegang/lib/boost_1_56_0/boost/smart_ptr/detail/sp_counted_base_gcc_x86.hpp(91): warning: "cc" clobber ignored
+
+/home/vis/yangdegang/lib/boost_1_56_0/boost/smart_ptr/detail/sp_counted_base_gcc_x86.hpp(75): warning: variable "tmp" was set but never used
+
+/home/vis/.jumbo/include/glog/logging.h(348): warning: using-declaration ignored -- it refers to the current namespace
+
+/home/vis/.jumbo/include/glog/logging.h(352): warning: using-declaration ignored -- it refers to the current namespace
+
+/home/vis/yangdegang/lib/local/include/opencv2/core/operations.hpp(2603): warning: integer conversion resulted in a change of sign
+          detected during instantiation of "cv::Ptr<_Tp>::~Ptr() [with _Tp=cv::linemod::QuantizedPyramid]" 
+
+/home/vis/yangdegang/lib/local/include/H5public.h(170): warning: unrecognized GCC pragma
+
+/home/vis/yangdegang/lib/local/include/H5public.h(170): warning: unrecognized GCC pragma
+
+/home/vis/yangdegang/lib/local/include/H5public.h(173): warning: unrecognized GCC pragma
+
+/home/vis/yangdegang/lib/local/include/opencv2/core/operations.hpp(2603): warning: integer conversion resulted in a change of sign
+
+/home/vis/yangdegang/lib/local/include/opencv2/core/mat.hpp(363): warning: integer conversion resulted in a change of sign
+
+/home/vis/yangdegang/lib/local/include/opencv2/core/mat.hpp(2119): warning: integer conversion resulted in a change of sign
+
+/home/vis/yangdegang/lib/local/include/opencv2/ml/ml.hpp(949): warning: overloaded virtual function "CvDTree::train" is only partially overridden in class "CvForestTree"
+
+/home/vis/yangdegang/lib/local/include/opencv2/ml/ml.hpp(1141): warning: overloaded virtual function "CvDTree::train" is only partially overridden in class "CvBoostTree"
+
+/home/vis/yangdegang/lib/boost_1_56_0/boost/smart_ptr/detail/sp_counted_base_gcc_x86.hpp(49): warning: "cc" clobber ignored
+
+/home/vis/yangdegang/lib/boost_1_56_0/boost/smart_ptr/detail/sp_counted_base_gcc_x86.hpp(65): warning: "cc" clobber ignored
+
+/home/vis/yangdegang/lib/boost_1_56_0/boost/smart_ptr/detail/sp_counted_base_gcc_x86.hpp(91): warning: "cc" clobber ignored
+
+/home/vis/yangdegang/lib/boost_1_56_0/boost/smart_ptr/detail/sp_counted_base_gcc_x86.hpp(75): warning: variable "tmp" was set but never used
+
+/home/vis/.jumbo/include/glog/logging.h(348): warning: using-declaration ignored -- it refers to the current namespace
+
+/home/vis/.jumbo/include/glog/logging.h(352): warning: using-declaration ignored -- it refers to the current namespace
+
+/home/vis/yangdegang/lib/local/include/H5public.h(170): warning: unrecognized GCC pragma
+
+/home/vis/yangdegang/lib/local/include/H5public.h(170): warning: unrecognized GCC pragma
+
+/home/vis/yangdegang/lib/local/include/H5public.h(173): warning: unrecognized GCC pragma
+
+/home/vis/yangdegang/lib/local/include/opencv2/core/operations.hpp(2603): warning: integer conversion resulted in a change of sign
+
+/home/vis/yangdegang/lib/local/include/opencv2/core/mat.hpp(363): warning: integer conversion resulted in a change of sign
+
+/home/vis/yangdegang/lib/local/include/opencv2/core/mat.hpp(2119): warning: integer conversion resulted in a change of sign
+
+/home/vis/yangdegang/lib/local/include/opencv2/ml/ml.hpp(949): warning: overloaded virtual function "CvDTree::train" is only partially overridden in class "CvForestTree"
+
+/home/vis/yangdegang/lib/local/include/opencv2/ml/ml.hpp(1141): warning: overloaded virtual function "CvDTree::train" is only partially overridden in class "CvBoostTree"
+
+/home/vis/yangdegang/lib/boost_1_56_0/boost/smart_ptr/detail/sp_counted_base_gcc_x86.hpp(49): warning: "cc" clobber ignored
+
+/home/vis/yangdegang/lib/boost_1_56_0/boost/smart_ptr/detail/sp_counted_base_gcc_x86.hpp(65): warning: "cc" clobber ignored
+
+/home/vis/yangdegang/lib/boost_1_56_0/boost/smart_ptr/detail/sp_counted_base_gcc_x86.hpp(91): warning: "cc" clobber ignored
+
+/home/vis/yangdegang/lib/boost_1_56_0/boost/smart_ptr/detail/sp_counted_base_gcc_x86.hpp(75): warning: variable "tmp" was set but never used
+
+/home/vis/.jumbo/include/glog/logging.h(348): warning: using-declaration ignored -- it refers to the current namespace
+
+/home/vis/.jumbo/include/glog/logging.h(352): warning: using-declaration ignored -- it refers to the current namespace
+
+/home/vis/yangdegang/lib/local/include/H5public.h(170): warning: unrecognized GCC pragma
+
+/home/vis/yangdegang/lib/local/include/H5public.h(170): warning: unrecognized GCC pragma
+
+/home/vis/yangdegang/lib/local/include/H5public.h(173): warning: unrecognized GCC pragma
+
+/home/vis/yangdegang/lib/local/include/opencv2/core/operations.hpp(2603): warning: integer conversion resulted in a change of sign
+
+/home/vis/yangdegang/lib/local/include/opencv2/core/mat.hpp(363): warning: integer conversion resulted in a change of sign
+
+/home/vis/yangdegang/lib/local/include/opencv2/core/mat.hpp(2119): warning: integer conversion resulted in a change of sign
+
+/home/vis/yangdegang/lib/local/include/opencv2/ml/ml.hpp(949): warning: overloaded virtual function "CvDTree::train" is only partially overridden in class "CvForestTree"
+
+/home/vis/yangdegang/lib/local/include/opencv2/ml/ml.hpp(1141): warning: overloaded virtual function "CvDTree::train" is only partially overridden in class "CvBoostTree"
+
+/home/vis/yangdegang/lib/boost_1_56_0/boost/smart_ptr/detail/sp_counted_base_gcc_x86.hpp(49): warning: "cc" clobber ignored
+
+/home/vis/yangdegang/lib/boost_1_56_0/boost/smart_ptr/detail/sp_counted_base_gcc_x86.hpp(65): warning: "cc" clobber ignored
+
+/home/vis/yangdegang/lib/boost_1_56_0/boost/smart_ptr/detail/sp_counted_base_gcc_x86.hpp(91): warning: "cc" clobber ignored
+
+/home/vis/yangdegang/lib/boost_1_56_0/boost/smart_ptr/detail/sp_counted_base_gcc_x86.hpp(75): warning: variable "tmp" was set but never used
+
+/home/vis/.jumbo/include/glog/logging.h(348): warning: using-declaration ignored -- it refers to the current namespace
+
+/home/vis/.jumbo/include/glog/logging.h(352): warning: using-declaration ignored -- it refers to the current namespace
+
+/home/vis/.jumbo/include/google/protobuf/repeated_field.h: In instantiation of 'void google::protobuf::RepeatedField<T>::Reserve(int) [with Element = float]':
+/home/vis/.jumbo/include/google/protobuf/repeated_field.h:631:41:   required from 'void google::protobuf::RepeatedField<T>::Add(const Element&) [with Element = float]'
+.build_release/src/caffe/proto/caffe.pb.h:8729:18:   required from here
+/home/vis/.jumbo/include/google/protobuf/repeated_field.h:755:13: warning: ISO C++ does not support variable-length array types [-Wvla]
+   elements_ = new Element[total_size_];
+             ^
+/home/vis/.jumbo/include/google/protobuf/repeated_field.h: In instantiation of 'void google::protobuf::RepeatedField<T>::Reserve(int) [with Element = int]':
+/home/vis/.jumbo/include/google/protobuf/repeated_field.h:631:41:   required from 'void google::protobuf::RepeatedField<T>::Add(const Element&) [with Element = int]'
+.build_release/src/caffe/proto/caffe.pb.h:9600:23:   required from here
+/home/vis/.jumbo/include/google/protobuf/repeated_field.h:755:13: warning: ISO C++ does not support variable-length array types [-Wvla]
+/home/vis/.jumbo/include/google/protobuf/repeated_field.h: In instantiation of 'void google::protobuf::RepeatedField<T>::Reserve(int) [with Element = unsigned int]':
+/home/vis/.jumbo/include/google/protobuf/repeated_field.h:631:41:   required from 'void google::protobuf::RepeatedField<T>::Add(const Element&) [with Element = unsigned int]'
+.build_release/src/caffe/proto/caffe.pb.h:16178:17:   required from here
+/home/vis/.jumbo/include/google/protobuf/repeated_field.h:755:13: warning: ISO C++ does not support variable-length array types [-Wvla]

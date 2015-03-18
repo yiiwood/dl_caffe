@@ -1,0 +1,8 @@
+src/caffe/layers/deconv_layer.cpp: In instantiation of 'void caffe::DeconvolutionLayer<Dtype>::Backward_cpu(const std::vector<caffe::Blob<Dtype>*>&, const std::vector<bool>&, std::vector<caffe::Blob<Dtype>*>*) [with Dtype = float]':
+src/caffe/layers/deconv_layer.cpp:233:1:   required from here
+src/caffe/layers/deconv_layer.cpp:197:11: warning: unused variable 'col_data' [-Wunused-variable]
+    Dtype* col_data = col_buffer_.mutable_cpu_data();
+           ^
+src/caffe/layers/deconv_layer.cpp: In instantiation of 'void caffe::DeconvolutionLayer<Dtype>::Backward_cpu(const std::vector<caffe::Blob<Dtype>*>&, const std::vector<bool>&, std::vector<caffe::Blob<Dtype>*>*) [with Dtype = double]':
+src/caffe/layers/deconv_layer.cpp:233:1:   required from here
+src/caffe/layers/deconv_layer.cpp:197:11: warning: unused variable 'col_data' [-Wunused-variable]

@@ -1,0 +1,36 @@
+src/caffe/layers/patch_data_layer.cpp: In instantiation of 'void caffe::PatchDataLayer<Dtype>::SamplingPatch(std::vector<cv::Mat*>&, std::vector<cv::Mat*>&, int, bool, float, float, caffe::Blob<Dtype>&, caffe::Blob<Dtype>&) [with Dtype = float]':
+src/caffe/layers/patch_data_layer.cpp:382:1:   required from here
+src/caffe/layers/patch_data_layer.cpp:282:7: warning: unused variable 'dim' [-Wunused-variable]
+   int dim = class_num * spatial_dim;
+       ^
+src/caffe/layers/patch_data_layer.cpp: In instantiation of 'void caffe::PatchDataLayer<Dtype>::FillPatch(cv::Mat&, cv::Mat&, int, int, int, bool, float, float, Dtype*, Dtype*) [with Dtype = float]':
+src/caffe/layers/patch_data_layer.cpp:382:1:   required from here
+src/caffe/layers/patch_data_layer.cpp:345:7: warning: unused variable 'half_patch_size' [-Wunused-variable]
+   int half_patch_size = patch_size/2;
+       ^
+src/caffe/layers/patch_data_layer.cpp: In instantiation of 'void caffe::PatchDataLayer<Dtype>::InternalThreadEntry() [with Dtype = float]':
+src/caffe/layers/patch_data_layer.cpp:382:1:   required from here
+src/caffe/layers/patch_data_layer.cpp:217:10: warning: unused variable 'filled_data' [-Wunused-variable]
+   Dtype* filled_data = this->prefetch_data_.mutable_cpu_data();
+          ^
+src/caffe/layers/patch_data_layer.cpp:218:10: warning: variable 'filled_label' set but not used [-Wunused-but-set-variable]
+   Dtype* filled_label = NULL;  // suppress warnings about uninitialized variables
+          ^
+src/caffe/layers/patch_data_layer.cpp: In instantiation of 'void caffe::PatchDataLayer<Dtype>::SamplingPatch(std::vector<cv::Mat*>&, std::vector<cv::Mat*>&, int, bool, float, float, caffe::Blob<Dtype>&, caffe::Blob<Dtype>&) [with Dtype = double]':
+src/caffe/layers/patch_data_layer.cpp:382:1:   required from here
+src/caffe/layers/patch_data_layer.cpp:282:7: warning: unused variable 'dim' [-Wunused-variable]
+   int dim = class_num * spatial_dim;
+       ^
+src/caffe/layers/patch_data_layer.cpp: In instantiation of 'void caffe::PatchDataLayer<Dtype>::FillPatch(cv::Mat&, cv::Mat&, int, int, int, bool, float, float, Dtype*, Dtype*) [with Dtype = double]':
+src/caffe/layers/patch_data_layer.cpp:382:1:   required from here
+src/caffe/layers/patch_data_layer.cpp:345:7: warning: unused variable 'half_patch_size' [-Wunused-variable]
+   int half_patch_size = patch_size/2;
+       ^
+src/caffe/layers/patch_data_layer.cpp: In instantiation of 'void caffe::PatchDataLayer<Dtype>::InternalThreadEntry() [with Dtype = double]':
+src/caffe/layers/patch_data_layer.cpp:382:1:   required from here
+src/caffe/layers/patch_data_layer.cpp:217:10: warning: unused variable 'filled_data' [-Wunused-variable]
+   Dtype* filled_data = this->prefetch_data_.mutable_cpu_data();
+          ^
+src/caffe/layers/patch_data_layer.cpp:218:10: warning: variable 'filled_label' set but not used [-Wunused-but-set-variable]
+   Dtype* filled_label = NULL;  // suppress warnings about uninitialized variables
+          ^
